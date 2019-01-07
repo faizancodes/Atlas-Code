@@ -1,5 +1,5 @@
 # Atlas-Code
-Atlas is a 3D printed car powered by Arduino that I fully designed using Fusion 360. The car is capable of avoiding objects autonomously with the use of a distance sensor and be controlled via bluetooth on an iPhone app. 
+Atlas is a fully 3D printed car powered by Arduino that I designed using Fusion 360. The car is capable of avoiding objects autonomously with the use of a distance sensor and be controlled via bluetooth on an iPhone app. 
 
 ![img-8750](https://user-images.githubusercontent.com/43652410/50742710-ef7dff00-11dc-11e9-9e21-3f5bf6c79eea.JPG)
 ![img-8747](https://user-images.githubusercontent.com/43652410/50742712-f4db4980-11dc-11e9-9dde-9206e9cd7be5.JPG)
